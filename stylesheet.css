@@ -1,0 +1,124 @@
+body{ background-color: black}
+
+section{
+width: 100%;
+display: table;
+height: 100vh;
+
+
+}
+.a{color: white;}
+.a{font-family: 'Oswald', sans-serif}
+.a{font-size: 50px}
+.a{margin-bottom:-80px}
+.a{margin-top:-54px}
+.a{padding-left:15px}
+
+.aa{color: white;}
+.aa{font-family: 'Oswald', sans-serif}
+.aa{font-size: 50px}
+.aa{margin-bottom:-120px}
+.aa{padding-left:15px}
+
+.b{color: white;}
+.b{font-family: 'Amatic SC', cursive;}
+.b{font-size:25.5px}
+.b{float: left;
+    width: 25%;
+    padding:15px;
+    margin-top:25px;
+	  margin:15px;
+    text-align: justify;
+   }
+ul{list-style: none;position: sticky; top: 20px}
+li{margin: 15px;}
+
+.c{color: red ;}
+.c{font-family: 'Oswald', sans-serif}
+.c{font-size: 20px}
+.c{float: right;
+  width: 100%;
+  margin-left: 85%;
+
+
+}
+.c{text-transform: uppercase;}
+.c{position: fixed;top: 0;}
+
+
+
+
+.part1{
+
+            background: url("HOME BACKGROUND.jpg");
+            background-position:
+            background-repeat: no-repeat;
+            background-size:100%;
+            margin: 0px;
+            padding: 0px;
+
+          }
+
+
+
+.part2{
+
+                        background: url("BACK GROUND2.jpg");
+                        background-position:top left, bottom right;
+                        background-repeat: no-repeat, no-repeat, no-repeat;
+                        background-size:100%;
+                        margin: 0px;
+                        padding: 0px;
+                }
+
+
+
+  .part3{
+
+                                    background: url("BACK GROUND3.JPG");
+                                    background-position:top left;
+                                    background-repeat: no-repeat;
+                                    background-size:100%;
+                                    margin: 0px;
+                                    padding: 0px;
+
+                  }
+.d{
+padding:15px;
+margin-top:200px;
+margin:15px;
+}
+
+
+.part3{
+width: 100%;
+display: table;
+max-width: none;
+height: 100vh;
+
+}
+.f{color: black;
+  font-family: 'Oswald', sans-serif;
+  font-size: 50px;
+  margin-bottom:-20px;
+  padding-left:15px;}
+
+.e{
+
+color: black;
+font-family: 'Oswald', sans-serif;
+font-size: 40px;
+padding-top: 90px;
+padding-left:15px;
+width: 45%;
+float: left;
+}
+
+.g{  width: 50%;
+    height: 1%;
+    padding-top: 11%;
+
+
+
+
+  float: right;}

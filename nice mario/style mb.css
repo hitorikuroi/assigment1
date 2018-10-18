@@ -1,0 +1,26 @@
+h1{color: white;}
+h2{color: white;}
+ul{color: white;}
+summary{color: white;}
+p{color: white; font-family: 'Roboto Slab', serif;} 
+.fonte {
+
+	padding:25px;
+	margin:25px;
+}
+
+#mario {margin: auto;}
+
+body{
+        
+        background: url("back.jpg");
+        background-repeat: no-repeat;
+        background-size:cover;
+        background-attachment: fixed;
+    }
+
+summary { 
+
+	font-size: 2emn 
+	font-family: 'Anton', sans-serif;
+}
